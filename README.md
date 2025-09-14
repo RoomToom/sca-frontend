@@ -1,9 +1,8 @@
 # 🐱 Spy Cat Agency — Fullstack Application
 
+# This is only FE part
 
 # Only BE part -> https://github.com/RoomToom/sca-backend
-
-# This is only FE part -> https://github.com/RoomToom/sca-frontend
 
 A fullstack CRUD application for the **Spy Cat Agency (SCA)**. The project demonstrates backend development with **FastAPI** and a frontend dashboard built with **Next.js + TailwindCSS**.
 

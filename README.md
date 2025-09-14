@@ -119,19 +119,6 @@ Run the collection — all tests (cats, missions, targets, validations) should p
 Backend → http://localhost:8000
 Frontend → http://localhost:3000
 
-### Backend only
-
-```bash
-docker build -t sca-backend -f dockerfile .
-docker run -p 8000:8000 sca-backend
-```
-
-### Frontend only
-
-```bash
-docker build -t sca-frontend -f Dockerfile.frontend ./src
-docker run -p 3000:3000 sca-frontend
-```
 
 ## 📸 Screenshots
 

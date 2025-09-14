@@ -159,8 +159,11 @@ docker run -p 3000:3000 sca-frontend
 ## 📸 Screenshots
 
 ### Dark Mode
+(./docs/screenshot-black.png)
+
 
 ### Light Mode
+(./docs/screenshot-light.png)
 
 -----
 

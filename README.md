@@ -145,6 +145,6 @@ docker run -p 3000:3000 sca-frontend
 
 ## ✉️ Notes
 
-  * Missions/targets are backend-only (per requirements).
+  * Missions/targets are backend-only.
   * Field “Current Mission” in the UI shows the assigned mission id if present.
   * Database is stored in `sca.db`. Remove it to reset state.
